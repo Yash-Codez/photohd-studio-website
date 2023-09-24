@@ -265,7 +265,7 @@ img {
 **********************************************************/
 #hero-section {
     min-height: calc(100vh - 7.6rem);
-    background-image: linear-gradient(#e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+    background-image: linear-gradient(#e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -586,27 +586,27 @@ footer {
 **********************************************************/
 @keyframes changeGradient {
     0% {
-        background-image: linear-gradient(0deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(0deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 
     20% {
-        background-image: linear-gradient(10deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(10deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 
     40% {
-        background-image: linear-gradient(20deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(20deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 
     60% {
-        background-image: linear-gradient(300deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(300deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 
     80% {
-        background-image: linear-gradient(40deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(40deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 
     100% {
-        background-image: linear-gradient(50deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../Assets/Images/banner1.jpg");
+        background-image: linear-gradient(50deg, #e74d3c7b, rgba(0, 0, 0, 0.404)), url("../assets/images/banner1.jpg");
     }
 }
 
